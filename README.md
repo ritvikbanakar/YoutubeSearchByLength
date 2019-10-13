@@ -6,4 +6,5 @@ Features Coming Soon:
 1. Ability to sort by other criteria that Youtube already has
 2. Being able to sort videos that are on a creator's channel
 
+Watch out for daily queries per day as you only have 10,000 a day
 
